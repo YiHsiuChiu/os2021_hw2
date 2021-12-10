@@ -1,3 +1,3 @@
-# OS_HW2
+# namespace & Cgroup
 * 此資料夾為練習所需的檔案
 * 需要同學按照投影片操作截圖並完成word檔
